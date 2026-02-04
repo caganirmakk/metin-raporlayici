@@ -35,12 +35,13 @@ Seçilen kelimenin tekrar sayısı = 18
 ```
 Gereksinimler
  
-Python 3.x
-
+```
+Python 3.x 
 Harici kütüphane gerekmez
+```
 
 Kullanım
-
+```
 python main.py
 Program çalıştığında sizden bir .txt dosya yolu ister ve ardından menü üzerinden seçim yapmanızı bekler.
-
+```
